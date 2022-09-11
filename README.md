@@ -21,6 +21,8 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ArturHAlves&show_icons=true&count_private=true&theme=github_dark" width="350"></a>
 </p>
 
+  <br>
+  
 <p align='center'>
   💻 Tecnologia que eu uso e estou estudando no meu dia a dia!<br/><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
