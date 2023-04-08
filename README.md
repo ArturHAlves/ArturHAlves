@@ -9,7 +9,8 @@
 
 <div>
 <p align="left">
-Eu sou Artur Henrique, tenho 21 anos com um grande amor pela tecnologia e desenvolvimento de sistemas. Sou desenvolvedor fullstack e  cursando Análise e Desenvolvimento de Sistemas, estou sempre em busca de novos desafios e aprendizados para melhorar minhas habilidades. Sou natural de Belo Horizonte, Minas Gerais, e nas horas vagas, sou um grande entusiasta de videogames, especialmente RPGs e simuladores de corridas. Além disso, sou um grande fã de heavy metal! Se você compartilha essas paixões, com certeza teremos muito o que conversar.
+Eu sou Artur Henrique, tenho 21 anos. Adoro tecnologia e estou atualmente cursando Análise e Desenvolvimento de Sistemas. Estou sempre procurando novas tecnologias para aprender, novos desafios para enfrentar e maneiras de melhorar minhas habilidades. 👨‍💻
+  Nas horas vagas, gosto muito de jogar videogames, especialmente RPGs e simuladores de corrida. Além disso, sou um grande amante de música e devagarinho estou aprendendo a tocar violão 🎶🎵
 <p/>
 <div/>
 
