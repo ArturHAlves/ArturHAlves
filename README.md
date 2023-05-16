@@ -7,12 +7,14 @@
 
 ### 🧐 Sobre mim:
 
-<div>
+
 <p align="left">
-Eu sou Artur Henrique, tenho 21 anos. Adoro tecnologia e estou atualmente cursando Análise e Desenvolvimento de Sistemas. Estou sempre procurando novas tecnologias para aprender, novos desafios para enfrentar e maneiras de melhorar minhas habilidades. 👨‍💻
-  Nas horas vagas, gosto muito de jogar videogames, especialmente RPGs e simuladores de corrida. Além disso, sou um grande amante de música e devagarinho estou aprendendo a tocar violão 🎶🎵
+Eu sou Artur Henrique, um mineiro apaixonado por tecnologia. 💻 <br/>
+Formado em Análise e Desenvolvimento de Sistemas e em busca de novos desafios. <br/>
+Estudante da escola de programação Trybe, Já concluí os módulos de Front-End e Back-End, <br/> 
+e agora estou em Ciência da Computação, com foco na poderosa linguagem Java! 🚀🔥
 <p/>
-<div/>
+
 
 <p align='center'>
 <a href="mailto:alveshalmeida@gmail.com?subject=Olá%20Artur%20Henrique"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,20 +33,30 @@ Eu sou Artur Henrique, tenho 21 anos. Adoro tecnologia e estou atualmente cursan
  
  <table border="1" align="center">
   <tr>
-    <td>
+   <td>
+      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+    </td>
+   <td>
+      <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+    </td>
+   <td>
+      <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>   
+    </td>
+   <td>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
+    </td>
+   <td>
       <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+    </td>  
+    <td>
+      <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
     </td>  
     <td>
       <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
     </td>  
     <td>
-      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+      <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
     </td>
-   
-   <td>
-    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-   </td>
-   
   </tr>
 <table>
 
@@ -90,10 +102,12 @@ Eu sou Artur Henrique, tenho 21 anos. Adoro tecnologia e estou atualmente cursan
     <td>
      <a href="https://www.tailwindcss.com/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
-    </td>  
+    </td>
+   <td>
+      <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a> 
+    </td> 
   </tr>
 <table>
- 
 
 <hr/>
 
