@@ -9,10 +9,9 @@
 
 
 <p align="left">
-Eu sou Artur Henrique, um mineiro apaixonado por tecnologia. 💻 <br/>
-Formado em Análise e Desenvolvimento de Sistemas e em busca de novos desafios. <br/>
-Estudante da escola de programação Trybe, Já concluí os módulos de Front-End e Back-End, <br/> 
-e agora estou em Ciência da Computação, com foco na poderosa linguagem Java! 🚀🔥
+Sempre fui apaixonado por desafios. 💻 <br/>
+Me formei em Análise e Desenvolvimento de Sistemas e me tornei um Desenvolvedor Full Stack. <br/>
+Sou um sonhador e acredito que pequenas ações, quando feitas com propósito digno, podem mudar o mundo 🚀 <br/> 
 <p/>
 
 
@@ -34,38 +33,38 @@ e agora estou em Ciência da Computação, com foco na poderosa linguagem Java! 
  <table border="1" align="center">
   <tr>
    <td>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
+    </td>
+   <td>
       <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
     </td>
    <td>
       <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
     </td>
    <td>
-      <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>   
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>    
     </td>
-   <td>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
+    <td>
+      <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
     </td>
    <td>
       <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
     </td>  
     <td>
-      <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
-    </td>  
-    <td>
       <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
     </td>  
-    <td>
-      <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-    </td>
   </tr>
 <table>
-
+  
  <hr>
  
 #### Front-End
 
 <table border="1" align="center">
   <tr>
+   <td>
+      <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>   
+    </td>  
     <td>
       <a href="https://reactjs.org/" target="_blank">
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
@@ -105,6 +104,9 @@ e agora estou em Ciência da Computação, com foco na poderosa linguagem Java! 
     </td>
    <td>
       <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a> 
+    </td> 
+   <td>
+      <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>
     </td> 
   </tr>
 <table>
