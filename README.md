@@ -1,122 +1,43 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Olá, seja bem-vindo
 
- <img width="100%" src='https://user-images.githubusercontent.com/111790827/219663565-a89416a9-c42f-4a4a-b04d-6a0767d1edcd.png' alt='My Banner' >
- 
-<br/>
+### 😎 Sobre mim
 
-### 🧐 Sobre mim:
+Desenvolvedor com experiência em  **_JavaScript_**, **_TypeScript_**, **_React_**, **_Next.js_**, **_Vue_**, **_React Native_** e **_Node.js_**, aplicando boas práticas de arquitetura e qualidade de código.
 
+### 🔎 Onde me encontrar
 
-<p align="left">
-Sempre fui apaixonado por desafios. 💻 <br/>
-Me formei em Análise e Desenvolvimento de Sistemas e me tornei um Desenvolvedor Full Stack. <br/>
-Sou um sonhador e acredito que pequenas ações, quando feitas com propósito digno, podem mudar o mundo 🚀 <br/> 
-<p/>
+[![Linkedin Badge](https://img.shields.io/badge/_Artur_Henrique-b1295b?style=flat-square&labelColor=b1295b&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/arturhalves/)
+[![Mail Badge](https://img.shields.io/badge/_arturhalves@gmail.com_-b1295b?style=flat-square&labelColor=b1295b&logo=gmail&logoColor=fff)](mailto:alveshalmeida@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/_artur.h.alves_-b1295b?style=flat-square&labelColor=b1295b&logo=discord&logoColor=fff)](https://discordapp.com/users//)
 
+### 🚀 Linguagens e ferramentas
 
-<p align='center'>
-<a href="mailto:alveshalmeida@gmail.com?subject=Olá%20Artur%20Henrique"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/artur-henrique-89b03521a/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a/> &nbsp;&nbsp;
-<a/> &nbsp;&nbsp;
-<p/>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=Typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=Railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=Vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 
-<hr/>
+<!--
 
-<b> :computer: &nbsp;Tecnologias e ferramentas - cada dia aprendendo mais</b>
-<br/>
-
- #### Back-end  
- 
- <table border="1" align="center">
-  <tr>
-   <td>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
-    </td>
-   <td>
-      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
-    </td>
-   <td>
-      <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-    </td>
-   <td>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>    
-    </td>
-    <td>
-      <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-    </td>
-   <td>
-      <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-    </td>  
-    <td>
-      <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
-    </td>  
-  </tr>
-<table>
-  
- <hr>
- 
-#### Front-End
-
-<table border="1" align="center">
-  <tr>
-   <td>
-      <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>   
-    </td>  
-    <td>
-      <a href="https://reactjs.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a> 
-    </td>  
-    <td>
-      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-    </td>  
-    <td>
-      <a href="https://redux.js.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a> 
-    </td>  
-    <td>
-      <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-    </td>  
-    <td>
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a> 
-    </td>  
-    <td>
-     <a href="https://www.w3schools.com/css/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-    </td>  
-    <td>
-      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
-    </td> 
-    </td>  
-    <td>
-     <a href="https://www.figma.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
-    </td>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://www.tailwindcss.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a> 
-    </td>
-   <td>
-      <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a> 
-    </td> 
-   <td>
-      <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>
-    </td> 
-  </tr>
-<table>
-
-<hr/>
-
-<b>:gear: &nbsp;Estatísticas do GitHub</b>
-
-  <div  align='center'>
-<a href="https://github.com/ArturHAlves">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArturHAlves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturHAlves&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/miguel5g">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel5g&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel5g&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+--!>
