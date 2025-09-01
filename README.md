@@ -1,5 +1,3 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Olá, seja bem-vindo
-
 ### 😎 Sobre mim
 Desenvolvedor com experiência em **JavaScript**, **TypeScript**, **React**, **Next.js**, **Vue**, **React Native** e **Node.js**, sempre focado em boas práticas, qualidade de código e interfaces bem estruturadas.
 
